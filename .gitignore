@@ -1,0 +1,9 @@
+node_modules/
+.scratch/
+.test-tmp-*/
+pnpm-lock.yaml
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db

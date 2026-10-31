@@ -1,0 +1,8 @@
+- insert:
+    - id: external-homes
+      name: dsh-external-homes
+      inject: [connection, sessionPersistence]
+      config:
+        homes: []
+        registryFile: ''
+        allowRegistration: true
